@@ -1,0 +1,297 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+body{
+    font-family: 'Poppins';
+   background-color: aliceblue;
+}
+li {
+display: inline;
+
+} 
+
+a:hover {
+    color: #00b39b;
+} 
+li a{
+font-family:'Poppins';
+border-left: 20px;
+}
+header .inner{
+    width: 1300px; 
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+
+    
+}
+li a {
+    color: black;
+    
+    
+}
+header{
+    background-color: aliceblue;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    font-family: 'Poppins';}
+    header .logo{
+        display: table;
+        height: 100%;
+        float: left;
+    }
+    header .logo div{
+        height: 100%;
+        display: table-cell;
+        vertical-align: middle;
+    }
+    header .logo img{
+        height: 40px;
+        margin-top: 35px; }
+        header nav{
+            float: right;
+            height: 100%;
+        }
+        header nav li{
+            display: table;
+            height: 100%;
+            float: left;
+            margin-right: 30px;
+        }
+        
+        header nav li:last-of-type{
+            margin-right: 1;
+        }
+        
+        header nav span {
+            display: table-cell;
+            vertical-align: middle;
+        }
+       
+            .div1 img {
+                height: 50px;
+                width: 50px;
+                padding-top:70px;
+                display: block;
+                margin: 0 auto;
+}
+            
+            .div1 h3 {
+                color: #00b39b;
+               text-align: center;
+               padding-top: 25px;
+}
+           .div1 p {
+           padding-left:100px;
+           padding-right: 100px;
+           padding-top: 25px;
+           padding-bottom: 25px;
+           }
+           .box {
+            display:flex;
+            justify-content:space-evenly;
+           }
+           .box1 {
+            height: 350px;
+            width: 300px;
+            background-color: #00b39b;
+            border-radius: 15px;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            
+            
+           }
+           .box2 {
+            height: 350px;
+            width: 300px;
+            background-color: #2137fc;
+            border-radius: 15px;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            
+
+           }
+       
+           .box3 {
+            height: 350px;
+            width: 300px;
+            background-color: #1b2734;
+            border-radius: 15px;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            
+           }
+           .div3{
+            padding-top: 60px;
+            padding-bottom: 60px;
+           }
+       .div3 h3 {
+        float: left;
+        padding-right: 950px;
+        padding-left: 105px;
+        color: #00b39b;
+        
+       }
+       .div4{
+        background-color:#00b39b3f ;
+        height: 500px;
+        
+        
+
+
+       }
+      .div4 h3{
+        color: #00b39b;
+        padding-top: 50px;
+        padding-left: 105px;
+        padding-right: 950px;
+        font-size: 1.525rem;
+        }
+        .div4 p{
+            padding-top: 50px;
+            padding-left: 105px;
+            padding-right: 950px;
+
+        }
+        .box4 {
+            height: 200px;
+            width: 180px;
+            background-color: #1870db;
+            border-radius: 15px;
+           padding-top: 30px;
+            float: right;
+            
+           
+        }
+        .box5 {
+            height: 200px;
+            width: 180px;
+            background-color: #8c95a0;
+            border-radius: 15px;
+            float: right;
+            padding-top: 30px;
+        }.box6 {
+            height: 200px;
+            width: 180px;
+            background-color: #8c95a0;
+            border-radius: 15px;
+            padding-top: 30px;
+            float: right;
+        }.box7 {
+            height: 200px;
+            width: 180px;
+            background-color: #8c95a0;
+            border-radius: 15px;
+            padding-top: 30px;float: right;
+
+        }
+        .div5{
+            text-align: center;
+            padding-top: 20px;
+        }
+       .div5 h3 {
+        color: #00b39b;
+        font-size: 1.525rem;
+       }
+       .div5 p {
+        padding-left: 25%;
+        padding-right: 25%;
+        padding-bottom: 20px;
+       }
+       .div6{
+        display: flex;
+        justify-content:space-evenly;
+        flex-wrap: wrap;
+        padding-top: 20px;
+        padding-bottom: 20px;
+       }
+       .box8{
+        height: 200px;
+        width: 180px;
+        background-color: #8c95a0;
+        border-radius: 15px;
+        padding-top: 30px;
+       }
+       .box9{
+        height: 200px;
+        width: 180px;
+        background-color: #8c95a0;
+        border-radius: 15px;
+        padding-top: 30px;
+       }
+       .box10{
+        height: 200px;
+        width: 180px;
+        background-color: #8c95a0;
+        border-radius: 15px;
+        padding-top: 30px;
+       }
+       .box11{
+        height: 200px;
+        width: 180px;
+        background-color: #8c95a0;
+        border-radius: 15px;
+        padding-top: 30px;
+       }
+       .box12{
+        height: 200px;
+        width: 180px;
+        background-color: #8c95a0;
+        border-radius: 15px;
+        padding-top: 30px;
+       }
+       .box13{
+        height: 200px;
+        width: 180px;
+        background-color: #8c95a0;
+        border-radius: 15px;
+        padding-top: 30px;
+       }
+      
+     
+      .div7 h1 {
+        text-align: center;
+        padding-bottom: 30px;}
+     .div8 {
+        padding: 14px 18px;
+     }
+
+     
+     
+      
+      .btn {
+        
+        padding-bottom: 20px;
+        display: inline-block;
+        vertical-align: middle;
+        position: relative;
+        outline: 0;
+        border: 0;
+        border-radius: 4px;
+        padding: 1.1666666667em 1.5em;
+        background: #3d83df;
+        font-family: Roboto,Arial,sans-serif;
+        line-height: 1em;
+        color: #fff;
+        font-weight: 350;
+        letter-spacing: .04em;
+        font-size: .75rem;
+        text-align: center;
+       
+        text-transform: uppercase;
+        transition: all .2s ease 0s;
+        
+        
+        }
+      footer{
+        text-align: center;
+      }
